@@ -1,0 +1,211 @@
+body{
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+#slideshow {
+  width: 1280px;
+  height: 497px;
+  margin-left: 100px;
+  margin-right: 100px;
+  max-width: 100%;
+  margin-top: 0px;
+}
+
+#blueblock {
+  background-color: #004452;
+  height: 60px;
+}
+
+nav{
+  position: sticky;
+}
+.jumbotron {
+  background-color: blue;
+  height: 70px;
+  width: 100%;
+}
+
+#fourimages {
+  margin-left: 65px;
+  margin-right: 100px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.fourimg {
+  margin-right: 40px;
+}
+
+#socialmediarow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  vertical-align: middle;
+  padding: 15px;
+}
+
+.socialmedia {
+  margin-right: 20px;
+}
+
+#firstcolumn {
+  display: flex;
+  background-color: #f4f4f4;
+  height: 241px;
+  width: 819.19px;
+  padding-bottom: 50px;
+}
+
+#imgandad {
+  display: flex;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+#ads {
+  padding-left: 150px;
+  padding-bottom: 50px;
+}
+
+.adwords {
+  padding-bottom: 20px;
+}
+
+h2 {
+  display: inline-flex;
+  font-size: 14pt;
+}
+
+.learnmore {
+  background-color: white;
+  padding: 15px;
+  border: 3px solid #247182;
+  color: #247182;;
+  display: inline-flex;
+}
+
+.wrapper {
+  margin-left: 20px;
+  margin-top: 50px;
+}
+
+#blog{
+  margin-top: 50px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+h1 {
+  font-size: 24px;
+}
+
+.blogbuttons {
+  background-color: white;
+  padding-right: 20px;
+}
+
+.buttonstyle {
+  border: 3px solid #247182;
+  color: #247182;
+  background-color: white;
+  padding: 15px;
+}
+
+#blogbuttonsrow {
+  padding: 15px;
+}
+
+.graybox {
+  padding-top: 10px;
+  background-color: #f4f4f4;
+  height: 464.13px;
+  width: 818.01px;
+}
+
+.blogrow {
+
+}
+.readerpic {
+  margin-top: 65px;
+}
+
+.blogcontainer {
+  max-width: 100%;
+  margin-left: 100px;
+}
+
+.col-md-8 {
+  margin-left: -100px;
+}
+
+.col-md-4 {
+  padding-left: 100px;
+}
+
+#sidetext {
+  display: inline;
+}
+
+nav {
+  margin-left: 100px;
+  margin-right: 100px;
+  background-color: white;
+}
+
+#secondrowcontainer {
+  max-width: 100%;
+  margin-left: 100px;
+}
+
+.readerbox {
+  padding-right: 20px;
+}
+
+.greybox {
+  margin-top: 80px;
+  background-color: #f4f4f4;
+  padding-top: 40px;
+  width: 404px;
+  height: 231.25px;
+}
+
+#thirdrowcontainer {
+  max-width: 100%;
+}
+
+#thirdrow {
+  padding-top: 10px;
+  margin-left: 90px;
+}
+
+.textbox {
+  width: 405px;
+  display: inline;
+  padding-right: 40px;
+  margin-right: 10px;
+  margin-bottom: 50px;
+  margin-top:30px;
+}
+
+footer {
+  margin-right: 100px;
+}
+
+.footertext {
+  line-height: 10px;
+}
+
+.phonefootertext {
+  line-height: 50px;
+}
+
+.footertextbox {
+  margin-top: 40px;
+}
+
+.list {
+    background-color: #247182;
+}
